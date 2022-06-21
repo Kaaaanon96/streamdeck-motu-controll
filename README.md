@@ -1,4 +1,9 @@
 
+- ドキュメント
+  - https://developer.elgato.com/documentation/
+- 叩いてるAPI
+  - https://cdn-data.motu.com/downloads/audio/AVB/docs/MOTU%20AVB%20Web%20API.pdf
+
 # Stream Deck Plugin Template
 
 The `Stream Deck Plugin Template` is a boilerplate template to let you get started quickly when writing a Javascript plugin for [Stream Deck](https://developer.elgato.com/documentation/stream-deck/).
