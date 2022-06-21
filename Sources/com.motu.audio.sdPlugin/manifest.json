@@ -1,24 +1,24 @@
 {
   "Actions": [
     {
-      "Icon": "action/images/actionimage", 
-      "Name": "Example Action", 
+      "Icon": "action/images/key_icon", 
+      "Name": "Toggle Mute", 
       "States": [
         {
-          "Image": "action/images/action"
+          "Image": "action/images/action_red"
         }
       ], 
-      "Tooltip": "This is an example tooltip", 
-      "UUID": "com.elgato.template.action"
+      "Tooltip": "Mute on or off.", 
+      "UUID": "com.motu.audio.action"
     }
   ], 
   "SDKVersion": 2,
-  "Author": "Elgato", 
+  "Author": "kanon", 
   "CodePath": "index.html", 
   "PropertyInspectorPath": "propertyinspector/index.html", 
   "Description": "Example description", 
-  "Name": "Stream Deck Template", 
-  "Icon": "action/images/action", 
+  "Name": "Motu Audio Controller", 
+  "Icon": "action/images/key_icon", 
   "URL": "https://www.elgato.com/en/gaming/stream-deck", 
   "Version": "1.0.1",
   "OS": [
